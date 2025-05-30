@@ -136,3 +136,31 @@ altr_pattern(rows)
 ![image](https://github.com/user-attachments/assets/9dd98d55-f6e4-4799-b0f7-86f2b44241d1)
 
 ### Result: Thus, the given program is implemented and executed successfully .
+Ex No:2.5 SEB-Sum of odd numbers
+
+## Aim:
+To write a python Program to find the sum of series 1+3+5+7.......+N
+
+## Algorithm:
+1. Start.
+2. Accept input `N` from the user.
+3. Initialize a variable `sum` to 0.
+4. Loop `i` from 1 to `N` (inclusive):
+   - If `i` is odd (i.e., `i % 2 != 0`), add it to `sum`.
+5. After the loop ends, display the final value of `sum`.
+6. End.
+
+## Program:
+```
+a = int(input())
+sum = 0
+for i in range(1, a + 1):
+    if i % 2 != 0:
+        sum += i
+print("The sum of the series = ", sum)
+```
+### Output:
+![image](https://github.com/user-attachments/assets/15b08c4a-d7fc-43cc-8d8a-ca676f0d05af)
+
+### Result: Thus the given code was executed successfully.
+
