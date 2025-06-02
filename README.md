@@ -136,7 +136,7 @@ altr_pattern(rows)
 ![image](https://github.com/user-attachments/assets/9dd98d55-f6e4-4799-b0f7-86f2b44241d1)
 
 ### Result: Thus, the given program is implemented and executed successfully .
-Ex No:2.5 SEB-Sum of odd numbers
+# Ex No:2.5 SEB-Sum of odd numbers
 
 ## Aim:
 To write a python Program to find the sum of series 1+3+5+7.......+N
